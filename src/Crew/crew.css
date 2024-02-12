@@ -1,0 +1,9 @@
+.backcrew{
+    background-image: url(../../public/assets/crew/background-crew-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.active-dot{
+    background-color: white;
+}

@@ -1,0 +1,15 @@
+.background{
+    background-image: url(../../public/assets/destination/background-destination-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.option:hover{
+    cursor: pointer;
+    color: antiquewhite;
+}
+.choose{
+    border-bottom:3px solid white !important ;
+}
+.infos{
+    font-family: 'Bellefair', serif;
+}
