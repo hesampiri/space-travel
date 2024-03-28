@@ -56,7 +56,7 @@ function Destination(){
                                 <li className={`option py-4 ${active[3]}`} onClick={destipicker} id={3}>TITAN</li>
                             </ul>
                         </div>
-                        <h2 className="sm:text-9xl text-7xl uppercase header py-[20px]">{planetname}</h2>
+                        <h2 className="xl:text-9xl text-7xl uppercase header py-[20px]">{planetname}</h2>
                         <p className="text-xl pb-[30px]">{plntdisc}</p>
                         <hr className=""/>
                         <div className="flex justify-between sm:w-2/3 sm:flex-row flex-col bg-red-20">

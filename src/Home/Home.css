@@ -1,27 +1,30 @@
-body{
-    background-image:url(../../public/assets/home/background-home-desktop.jpg);
-    background-repeat: no-repeat;
-    /* background-position: fixed; */
-    background-size:cover ;
-    height:fit-content;
+body {
+  background-image: url(../../public/assets/home/background-home-desktop.jpg);
+  background-repeat: no-repeat;
+  /* background-position: fixed; */
+  background-size: cover;
+  /* height: fit-content; */
+  background-color: black;
 }
 
-.header{
-    font-family: 'Bellefair', serif;
+.header {
+  font-family: "Bellefair", serif;
 }
-.right-sec{
-    font-family: 'Bellefair', serif;
+.right-sec {
+  font-family: "Bellefair", serif;
 }
-.right-sec>div:hover{
-    cursor: pointer;
+.right-sec > div:hover {
+  cursor: pointer;
 }
 
-.hovered{
-    transform: scale(1.3);
-    transition: all 0.2s;
-    opacity: 30%;
+.hovered {
+  transform: scale(1.3);
+  transition: all 0.2s;
+  opacity: 30%;
 }
-.removed{
-    transform: scale(1);
-    transition: all 0.5s;
+.removed {
+  transform: scale(1);
+  transition: all 0.5s;
 }
+
+
